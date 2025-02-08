@@ -1,6 +1,6 @@
-# HEAPLY is friendly generic contract golang heap
+# HEAPLY is a friendly generic contract golang heap
 
-Now *heaply* provides simple binary heap implementation and generic contracts. heaply.NewHeap - is not thread-safe
+Now *heaply* provides simple binary heap implementation and generic contracts. ```heaply.NewHeap``` - is not thread-safe
 
 Usages example:
 ```
