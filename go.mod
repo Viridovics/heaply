@@ -1,6 +1,6 @@
 module github.com/viridovics/heaply
 
-go 1.23
+go 1.18
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
